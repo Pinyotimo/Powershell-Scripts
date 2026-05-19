@@ -1,0 +1,3 @@
+@'
+
+$TargetDir =Read-H
