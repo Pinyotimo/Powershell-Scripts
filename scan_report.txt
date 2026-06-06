@@ -1,0 +1,10 @@
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\csv-parser.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\mime.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\mkdirp.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\nodemon.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\nodetouch.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\prisma.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\semver.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\.bin\uuid.ps1
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\@prisma\engines\schema-engine-windows.exe
+[05/19/2026 21:51:10] Suspicious file: C:\Users\USER\OneDrive\Desktop\Software Engineering\pharmaOS\backend\node_modules\nodemon\bin\windows-kill.exe
